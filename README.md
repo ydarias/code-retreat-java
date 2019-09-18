@@ -10,3 +10,7 @@ Se recomienda el uso de este proyecto base para la implementación del código d
 ## Ejecutar los tests
 
 Para ejecutar los tests basta con lanzar el comando `gradle test`.
+
+## Extensiones de VSCode Studio Code recomendadas
+
+* Java Extension Pack: Este paquete instalará otra serie de dependencias que nos permitirán autocompletar código, depurar o lanzar tests desde el editor.
